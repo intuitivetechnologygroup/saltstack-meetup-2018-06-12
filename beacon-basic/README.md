@@ -32,7 +32,7 @@ docker exec -it dev-ubuntu-minion bash
 ```bash
 salt-key
 salt-key -A -y
-salt dev-\* test.ping
+salt \* test.ping
 ```
 
 #### Install vim:
