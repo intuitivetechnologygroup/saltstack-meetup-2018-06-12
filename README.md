@@ -72,8 +72,11 @@ beacons:
     - disable_during_state_run: True
 ```
 
-## <a name='solution'></a> A Solution
+## <a name='solution'></a> Solutions
 
+[Example 1](./beacon-basic/README.md)
+
+[Example 2](./beacon-reactor-runner/README.md)
 
 ## <a name='dojo'></a> DOJO
 
